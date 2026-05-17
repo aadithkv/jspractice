@@ -8,4 +8,4 @@ let isFail:boolean=false;
 console.log(na)
 console.log(age)
 console.log(isFail)
-console.log(3)
+console.log(2)
